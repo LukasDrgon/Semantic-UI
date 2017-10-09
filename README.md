@@ -6,6 +6,8 @@
 
 [![CDNJS](https://img.shields.io/cdnjs/v/semantic-ui.svg)](https://cdnjs.com/libraries/semantic-ui/)
 
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/semantic-ui/badge?style=rounded)](https://www.jsdelivr.com/package/npm/semantic-ui)
+
 Semantic is a UI framework designed for theming.
 
 Key Features
